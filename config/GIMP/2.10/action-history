@@ -1,0 +1,24 @@
+# GIMP action-history
+
+(history-item "edit-paste" 0)
+(history-item "file-quit" 1)
+(history-item "edit-cut" 1)
+(history-item "tools-text" 1)
+(history-item "layers-new" 1)
+(history-item "filters-lens-distortion" 0)
+(history-item "tools-warp" 0)
+(history-item "file-export" 0)
+(history-item "image-new" 0)
+(history-item "tools-paintbrush" 0)
+(history-item "layers-duplicate" 1)
+(history-item "filters-apply-lens" 0)
+(history-item "plug-in-animationplay" 0)
+(history-item "filters-ripple" 0)
+(history-item "tools-zoom" 0)
+(history-item "tools-gegl" 0)
+(history-item "tools-airbrush" 0)
+(history-item "tools-rect-select" 0)
+(history-item "file-open" 0)
+(history-item "file-open-as-layers" 1)
+
+# end of action-history

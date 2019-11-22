@@ -1,0 +1,84 @@
+{
+   "checksum": "cb6cebfbecc1fbae60c253f047bd0e27",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13213807684018177",
+            "id": "5",
+            "name": "Ebic phone camera dtuff",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=9gKYWjA5OkA"
+         }, {
+            "date_added": "13215901424962522",
+            "id": "7",
+            "name": "Arch Packages",
+            "type": "url",
+            "url": "https://archlinux.pkgs.org/"
+         }, {
+            "date_added": "13216127208446134",
+            "id": "9",
+            "name": "1993 MERCEDES-BENZ COACH for sale",
+            "type": "url",
+            "url": "https://www.busnews.com.au/detail/mercedesbenz-coach-684491"
+         }, {
+            "date_added": "13216127438044866",
+            "id": "10",
+            "name": "1983 LEYLAND LEOPARD BUS, 1983 MODEL for sale",
+            "type": "url",
+            "url": "https://www.busnews.com.au/detail/leyland-leopard-bus-1983-model-427997"
+         }, {
+            "date_added": "13216127493552357",
+            "id": "11",
+            "name": "1992 MERCEDES-BENZ 1418 for sale",
+            "type": "url",
+            "url": "https://www.busnews.com.au/detail/mercedesbenz-1418-699609"
+         }, {
+            "date_added": "13216615331929712",
+            "id": "13",
+            "name": "(261) Joesef - Play Me Something Nice (Official Lyric Video) - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=Tge7wR1wZ-8"
+         }, {
+            "date_added": "13217469504304727",
+            "id": "15",
+            "name": "Portable BF-F8HP Outdoor Car Handheld Dual-Segment Uv-5r Walkie Talkie Kit Sets | eBay",
+            "type": "url",
+            "url": "https://www.ebay.com.au/itm/Portable-BF-F8HP-Outdoor-Car-Handheld-Dual-Segment-Uv-5r-Walkie-Talkie-Kit-Sets-/113918173465"
+         }, {
+            "date_added": "13217567302584635",
+            "id": "17",
+            "name": "Erky",
+            "type": "url",
+            "url": "https://erkyperky.fandom.com/wiki/Erky"
+         }, {
+            "date_added": "13217924366781194",
+            "id": "19",
+            "name": "(608) JavaScript Pro Tips - Code This, NOT That - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=Mus_vwhTCq0"
+         } ],
+         "date_added": "13213802431056892",
+         "date_modified": "13217924366781194",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13213802431056942",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13213802431056944",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

@@ -1,0 +1,18 @@
+2019/10/18-15:23:56.767 2f8a Reusing MANIFEST /home/tascord/.config/google-chrome/Default/IndexedDB/https_www.ixsystems.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/10/18-15:23:56.767 2f8a Recovering log #21
+2019/10/18-15:23:56.767 2f8a Reusing old log /home/tascord/.config/google-chrome/Default/IndexedDB/https_www.ixsystems.com_0.indexeddb.leveldb/000021.log 
+2019/10/18-15:23:57.114 4ba8 Current memtable full; waiting...
+2019/10/18-15:23:57.114 54c2 Level-0 table #26: started
+2019/10/18-15:23:57.116 54c2 Level-0 table #26: 414 bytes OK
+2019/10/18-15:23:57.118 54c2 Delete type=0 #21
+2019/10/18-15:23:57.119 54c2 Level-0 table #28: started
+2019/10/18-15:23:57.119 54c2 Level-0 table #28: 0 bytes OK
+2019/10/18-15:23:57.122 54c2 Delete type=0 #25
+2019/10/18-15:23:57.122 54c2 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 46 : 1
+2019/10/18-15:23:57.122 54c2 Compacting 1@0 + 1@1 files
+2019/10/18-15:23:57.124 54c2 Generated table #29@0: 6 keys, 584 bytes
+2019/10/18-15:23:57.124 54c2 Compacted 1@0 + 1@1 files => 584 bytes
+2019/10/18-15:23:57.130 54c2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/10/18-15:23:57.130 54c2 Delete type=2 #23
+2019/10/18-15:23:57.130 54c2 Delete type=2 #26
+2019/10/18-15:23:57.130 54c2 Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 46 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

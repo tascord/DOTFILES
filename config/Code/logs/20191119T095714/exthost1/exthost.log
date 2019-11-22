@@ -1,0 +1,20 @@
+[2019-11-19 09:57:17.304] [exthost] [info] extension host started
+[2019-11-19 09:57:17.339] [exthost] [info] ExtensionService#_doActivateExtension kalitaalexey.vscode-rust {"startup":false,"extensionId":{"value":"kalitaalexey.vscode-rust","_lower":"kalitaalexey.vscode-rust"},"activationEvent":"onLanguage:rust"}
+[2019-11-19 09:57:17.340] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tascord/.vscode/extensions/kalitaalexey.vscode-rust-0.4.2/out/src/extension
+[2019-11-19 09:57:17.434] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2019-11-19 09:57:17.434] [exthost] [info] ExtensionService#loadCommonJSModule file:///var/lib/snapd/snap/code/18/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-11-19 09:57:17.438] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2019-11-19 09:57:17.438] [exthost] [info] ExtensionService#loadCommonJSModule file:///var/lib/snapd/snap/code/18/usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-11-19 09:57:17.476] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2019-11-19 09:57:17.477] [exthost] [info] ExtensionService#loadCommonJSModule file:///var/lib/snapd/snap/code/18/usr/share/code/resources/app/extensions/git/dist/main
+[2019-11-19 09:57:17.558] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2019-11-19 09:57:17.558] [exthost] [info] ExtensionService#loadCommonJSModule file:///var/lib/snapd/snap/code/18/usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-11-19 09:57:17.563] [exthost] [info] ExtensionService#_doActivateExtension gencer.html-slim-scss-css-class-completion {"startup":true,"extensionId":{"value":"gencer.html-slim-scss-css-class-completion","_lower":"gencer.html-slim-scss-css-class-completion"},"activationEvent":"*"}
+[2019-11-19 09:57:17.563] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tascord/.vscode/extensions/gencer.html-slim-scss-css-class-completion-1.5.23/dist/extension
+[2019-11-19 09:57:17.656] [exthost] [info] ExtensionService#_doActivateExtension pranaygp.vscode-css-peek {"startup":true,"extensionId":{"value":"pranaygp.vscode-css-peek","_lower":"pranaygp.vscode-css-peek"},"activationEvent":"*"}
+[2019-11-19 09:57:17.656] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tascord/.vscode/extensions/pranaygp.vscode-css-peek-3.0.2/out/client/src/extension
+[2019-11-19 09:57:17.710] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2019-11-19 09:57:17.710] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tascord/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2019-11-19 09:57:18.492] [exthost] [info] eager extensions activated
+[2019-11-19 09:58:26.067] [exthost] [info] ExtensionService#_doActivateExtension bungcip.better-toml {"startup":false,"extensionId":{"value":"bungcip.better-toml","_lower":"bungcip.better-toml"},"activationEvent":"onLanguage:toml"}
+[2019-11-19 09:58:26.068] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/tascord/.vscode/extensions/bungcip.better-toml-0.3.2/out/src/extension
