@@ -1,5 +1,0 @@
-2019/11/22-10:38:06.098 779 Reusing MANIFEST /home/tascord/.config/google-chrome/Default/Site Characteristics Database/MANIFEST-000001
-2019/11/22-10:38:06.099 779 Recovering log #3
-2019/11/22-10:38:06.103 779 (ignoring error) /home/tascord/.config/google-chrome/Default/Site Characteristics Database/000003.log: dropping 58 bytes; Corruption: missing start of fragmented record(2)
-2019/11/22-10:38:06.103 779 (ignoring error) /home/tascord/.config/google-chrome/Default/Site Characteristics Database/000003.log: dropping 16 bytes; Corruption: missing start of fragmented record(2)
-2019/11/22-10:38:06.103 779 Reusing old log /home/tascord/.config/google-chrome/Default/Site Characteristics Database/000003.log 

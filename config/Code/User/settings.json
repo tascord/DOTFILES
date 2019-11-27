@@ -1,8 +1,0 @@
-{
-    "workbench.colorTheme": "Monokai",
-    "window.menuBarVisibility": "toggle",
-    "window.zoomLevel": 0,
-    "git.enableSmartCommit": true,
-    "git.autofetch": true,
-    "workbench.settings.openDefaultKeybindings": true
-}

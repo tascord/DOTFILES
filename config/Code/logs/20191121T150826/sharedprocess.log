@@ -1,8 +1,0 @@
-[2019-11-21 15:08:29.712] [sharedprocess] [info] main {"machineId":"8142bfeb241ae6febe12f0ed1b7825fbff385e811c29cafd01e2307eda4ee7e1","windowId":2}
-[2019-11-21 15:08:31.402] [sharedprocess] [info] Installing extension: serayuzgur.crates
-[2019-11-21 15:08:32.716] [sharedprocess] [info] Downloaded extension: serayuzgur.crates /tmp/3e9d8857-18ca-4f7e-b75d-cfe686784956
-[2019-11-21 15:08:33.730] [sharedprocess] [info] Extracted extension to /home/tascord/.vscode/extensions/.serayuzgur.crates-0.4.7: serayuzgur.crates
-[2019-11-21 15:08:33.730] [sharedprocess] [info] Renamed to /home/tascord/.vscode/extensions/serayuzgur.crates-0.4.7
-[2019-11-21 15:08:33.731] [sharedprocess] [info] Installation completed. serayuzgur.crates
-[2019-11-21 15:08:33.748] [sharedprocess] [info] Extensions installed successfully: serayuzgur.crates
-[2019-11-21 15:09:09.723] [sharedprocess] [info] Starting to clean up unused language packs.

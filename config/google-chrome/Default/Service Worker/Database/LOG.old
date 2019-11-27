@@ -1,5 +1,0 @@
-2019/11/22-10:38:06.146 77a Reusing MANIFEST /home/tascord/.config/google-chrome/Default/Service Worker/Database/MANIFEST-000001
-2019/11/22-10:38:06.146 77a Recovering log #3
-2019/11/22-10:38:06.151 77a (ignoring error) /home/tascord/.config/google-chrome/Default/Service Worker/Database/000003.log: dropping 33 bytes; Corruption: missing start of fragmented record(2)
-2019/11/22-10:38:06.153 77a (ignoring error) /home/tascord/.config/google-chrome/Default/Service Worker/Database/000003.log: dropping 42 bytes; Corruption: missing start of fragmented record(2)
-2019/11/22-10:38:06.155 77a Reusing old log /home/tascord/.config/google-chrome/Default/Service Worker/Database/000003.log 

@@ -1,6 +1,0 @@
-2019/11/20-18:17:16.887 435 Reusing MANIFEST /home/tascord/.config/google-chrome/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
-2019/11/20-18:17:16.887 435 Recovering log #3
-2019/11/20-18:17:16.910 435 Reusing old log /home/tascord/.config/google-chrome/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000003.log 
-2019/11/20-18:17:21.888 5fe Level-0 table #5: started
-2019/11/20-18:17:21.911 5fe Level-0 table #5: 1370890 bytes OK
-2019/11/20-18:17:21.915 5fe Delete type=0 #3
