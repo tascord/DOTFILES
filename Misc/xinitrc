@@ -1,0 +1,12 @@
+pulseeffects --gapplication-service &
+dunst -conf ~/.config/dunst &
+sh ~/.config/polybar/launch.sh
+picom & 
+wal -R
+
+#/home/tascord/.npm-global/bin/tradni server force &
+
+#xwinwrap -ov -ni -fs -- mpv x11 -wid WID --keepaspect=no --loop ~/Desktop/Backgrounds/Lofi\ Beats\ To\ Relax\ -\ Study\ To.gif &
+
+xsetroot -cursor_name left_ptr
+exec bspwm
