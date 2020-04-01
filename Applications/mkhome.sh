@@ -1,7 +1,7 @@
 mkdir ~/Applications
 mkdir ~/Desktop
 mkdir ~/Documents
-mkdir ~/Downnloads
+mkdir ~/Downloads
 
 mkdir ~/Documents/School
 mkdir ~/Documents/OkGoogle
