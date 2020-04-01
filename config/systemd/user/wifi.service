@@ -1,0 +1,9 @@
+[Unit]
+Description=Starts wpa_supplicant
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/wpa_supplicant -D wext -i wlp4s0 -c /home/tascord/.config/wpa_supplicant.conf
+
+[Install]
+WantedBy=default.target
