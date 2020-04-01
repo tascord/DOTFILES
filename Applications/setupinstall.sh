@@ -1,20 +1,19 @@
-sudo pacman -Syu
+sudo pacman -Syu --noconfirm
 
 # Create the home direcroy layout
 sh ./mkhome.sh
 
 # Make sure important stuff is downloaded and up to date
-sudo pacman -S wpa_supplicant dhcpcd git
+sudo pacman -S --noconfirm wpa_supplicant dhcpcd git
 
 # Make sure GIT is installed
 
 # Install YAY
-sudo pacman -S go
 mkdir tmp/
 cd tmp/
 git clone https://aur.archlinux.org/yay.git
 cd yay/
-makepkg -si
+makepkg -si --noconfirm
 cd ../../
 
 # Copy wallpapers
@@ -27,7 +26,7 @@ cp ../config/* ~/.config/
 cp ../Misc/xinitrc ~/.xinitrc
 
 # Move fonts
-cp ../fonts/* /usr/share/fonts/ -r
+sudo cp ../fonts/* /usr/share/fonts/ -r
 fc-cache
 
 # Install the desktop stuff
